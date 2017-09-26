@@ -109,3 +109,26 @@ iframe {
   background-size: cover, cover;
   border-bottom: 15px solid grey;
 }
+
+ h2 {
+  margin-left: 250px;
+  margin-top: 40px ;
+  margin-bottom: 40px;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  font-size: 40px;
+}
+
+
+.lists {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+}
+
+#fact-list {
+  background-image: url('../images/eight_horns.png');
+  border-bottom: 15px solid pink;
+  margin-top: -40px;
+
+}
